@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(0, 255, 255);
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+.card {
+    min-width: 25%;
+    border: 2px solid black;
+    margin: 1rem;
+}
+
+.title {
+    display: inline;
+}
+
+.card-heading {
+    width: 90%;
+    margin: 1rem auto;
+}
+
+.card-properties {
+    width: 90%;
+    margin: 1rem auto;
+}
+
+.card-properties p {
+    border: 1px solid rgb(68, 68, 68);
+    margin: 0;
+    padding: 1rem;
+}
