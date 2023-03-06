@@ -6,6 +6,7 @@ const Intern = require('./lib/Intern');
 
 let employees = [];
 
+//Questions used when creating an instance of a Manager
 const managerQuestions = [
     {
         type: 'input',
@@ -33,6 +34,7 @@ const managerQuestions = [
     },
 ]
 
+//Questions used when creating an instance of a Engineer
 const engineerQuestions = [
     {
         type: 'input',
@@ -60,6 +62,7 @@ const engineerQuestions = [
     },
 ]
 
+//Questions used when creating an instance of a Intern
 const internQuestions = [
     {
         type: 'input',
