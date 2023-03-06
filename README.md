@@ -11,7 +11,6 @@ A terminal based application that allows a user to add information about the mem
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [License](#License)
-- [Contributing](#Contributing)
 - [Tests](#Tests)
 - [Questions](#Questions)
 
@@ -28,10 +27,6 @@ While in the root directory of the project, enter 'node index.js' in your termin
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
-
-## Contributing
-
-N/A
 
 ## Tests
 
