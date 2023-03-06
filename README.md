@@ -23,7 +23,7 @@ Ensure you have Node.js installed on your device and install the dependencies by
 
 https://user-images.githubusercontent.com/118566376/223011283-01ec0afa-b6d4-48d9-bc13-5b37d608febf.mp4
 
-While in the root directory of the project, enter 'node index.js' in your terminal to start the application. Follow the on-screen prompts to add information about each of your team members. When you have added each of your members, select 'Finish building' and the app will exit. You will find the HTML file containing the information about your team within  the 'dist' directory.
+While in the root directory of the project, enter 'node index.js' in your terminal to start the application. Follow the on-screen prompts to add information about each of your team members. When you have added each of your members, select 'Finish building' and the app will exit. You will find the HTML file containing the information about your team within the 'dist' directory.
 
 ## License
 
